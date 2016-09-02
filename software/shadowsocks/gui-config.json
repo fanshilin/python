@@ -1,0 +1,54 @@
+{
+"configs" : [
+  {
+"server" : "sg-x0.f-q.pw",
+"server_port" : 10163,
+"password" : "fanshilin",
+"method" : "rc4-md5",
+"remarks" : "新加坡"}
+,
+  {
+"server" : "cn-hk-e0.f-q.pw",
+"server_port" : 10163,
+"password" : "fanshilin",
+"method" : "rc4-md5",
+"remarks" : "中国香港"}
+,
+  {
+"server" : "us-ca-la-1w.f-q.pw",
+"server_port" : 10163,
+"password" : "fanshilin",
+"method" : "rc4-md5",
+"remarks" : "美国洛杉矶1"}
+,
+  {
+"server" : "us-la-ca-vc.f-q.pw",
+"server_port" : 10163,
+"password" : "fanshilin",
+"method" : "rc4-md5",
+"remarks" : "美国洛杉矶2"}
+,
+  {
+"server" : "us-la-ca-69.f-q.pw",
+"server_port" : 10163,
+"password" : "fanshilin",
+"method" : "rc4-md5",
+"remarks" : "美国洛杉矶3"}
+,
+  {
+"server" : "us-la-ca-6q.f-q.pw",
+"server_port" : 10163,
+"password" : "fanshilin",
+"method" : "rc4-md5",
+"remarks" : "美国拉斯维加斯"}
+
+],
+"strategy" : null,
+"index" : 0,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false}
