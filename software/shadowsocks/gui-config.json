@@ -44,8 +44,8 @@
 
 ],
 "strategy" : null,
-"index" : 0,
-"global" : false,
+"index" : 2,
+"global" : true,
 "enabled" : true,
 "shareOverLan" : false,
 "isDefault" : false,
