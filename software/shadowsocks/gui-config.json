@@ -37,15 +37,9 @@
 
 ],
 "strategy" : null,
-<<<<<<< HEAD
 "index" : 0,
 "global" : false,
-"enabled" : false,
-=======
-"index" : 2,
-"global" : true,
 "enabled" : true,
->>>>>>> 0aff3f7b48d08700587acc11b3e67a5ae42ecf4c
 "shareOverLan" : false,
 "isDefault" : false,
 "localPort" : 1080,
